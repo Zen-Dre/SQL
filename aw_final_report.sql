@@ -1,4 +1,4 @@
-					-- Query Database Using Basic to Advanced SQL Logic --  
+	-- Analysis of Adventure Works Database Using Basic to Advanced SQL Logic --  
 
 -- Use Database.  
 USE AdventureWorks2019; 
